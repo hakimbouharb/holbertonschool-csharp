@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb\\5-print_comb.csproj": {}
+    "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb\\5-print_comb.csproj": {
+    "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb\\5-print_comb.csproj",
+        "projectUniqueName": "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
         "projectName": "5-print_comb",
-        "projectPath": "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb\\5-print_comb.csproj",
+        "projectPath": "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
         "packagesPath": "C:\\Users\\HAKIM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb\\obj\\",
+        "outputPath": "C:\\Users\\HAKIM\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
