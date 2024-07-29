@@ -1,0 +1,1 @@
+This readme fileis for csharp arrayd lists dictionaries of Holberton.
