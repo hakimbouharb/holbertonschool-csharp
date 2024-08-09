@@ -1,0 +1,11 @@
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.deps.json
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.runtimeconfig.json
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.runtimeconfig.dev.json
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.dll
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.pdb
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.csprojAssemblyReference.cache
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.csproj.CoreCompileInputs.cache
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.AssemblyInfoInputs.cache
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.AssemblyInfo.cs
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.dll
+C:\Users\HAKIM\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.pdb
