@@ -1,0 +1,1 @@
+This readme file is for csharp structs enums project of Holberton.
